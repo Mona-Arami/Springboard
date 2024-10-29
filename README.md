@@ -81,5 +81,5 @@ To explore each project:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/springboard-ml-engineering-bootcamp.git
+   git clone https://github.com/mona-arami/springboard-ml-engineering-bootcamp.git
    cd springboard-ml-engineering-bootcamp
